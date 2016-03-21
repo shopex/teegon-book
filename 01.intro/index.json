@@ -1,0 +1,25 @@
+{
+    "child": {
+        "README.md": {
+            "next": {
+                "path": "01.intro/01.basic/README.md",
+                "title": "基础文档"
+            },
+            "prev": {
+                "path": "/README.md",
+                "title": "天工收银开放平台"
+            },
+            "title": "了解如何开发"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "01.intro/README.md",
+            "title": "了解如何开发"
+        }
+    ]
+}

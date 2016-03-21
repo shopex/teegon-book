@@ -1,0 +1,106 @@
+{
+    "child": {
+        "01.button.md": {
+            "next": {
+                "path": "01.intro/03.usage/02.qrcode.md",
+                "title": "线下二维码收银"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/README.md",
+                "title": "功能实现"
+            },
+            "title": "网站嵌入结算按钮"
+        },
+        "02.qrcode.md": {
+            "next": {
+                "path": "01.intro/03.usage/03.divide.md",
+                "title": "自动分账"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/01.button.md",
+                "title": "网站嵌入结算按钮"
+            },
+            "title": "线下二维码收银"
+        },
+        "03.divide.md": {
+            "next": {
+                "path": "01.intro/03.usage/04.checking.md",
+                "title": "对账接口"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/02.qrcode.md",
+                "title": "线下二维码收银"
+            },
+            "title": "自动分账"
+        },
+        "04.checking.md": {
+            "next": {
+                "path": "01.intro/03.usage/05.monitor.md",
+                "title": "实时大屏"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/03.divide.md",
+                "title": "自动分账"
+            },
+            "title": "对账接口"
+        },
+        "05.monitor.md": {
+            "next": {
+                "path": "01.intro/03.usage/06.refund.md",
+                "title": "退款接口"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/04.checking.md",
+                "title": "对账接口"
+            },
+            "title": "实时大屏"
+        },
+        "06.refund.md": {
+            "next": {
+                "path": "01.intro/03.usage/07.withdraw.md",
+                "title": "提现接口"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/05.monitor.md",
+                "title": "实时大屏"
+            },
+            "title": "退款接口"
+        },
+        "07.withdraw.md": {
+            "next": {
+                "path": "02.reference/README.md",
+                "title": "附录"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/06.refund.md",
+                "title": "退款接口"
+            },
+            "title": "提现接口"
+        },
+        "README.md": {
+            "next": {
+                "path": "01.intro/03.usage/01.button.md",
+                "title": "网站嵌入结算按钮"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/06.deposit.md",
+                "title": "预存款, 子账户间付款"
+            },
+            "title": "功能实现"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "01.intro/README.md",
+            "title": "了解如何开发"
+        },
+        {
+            "path": "01.intro/03.usage/README.md",
+            "title": "功能实现"
+        }
+    ]
+}

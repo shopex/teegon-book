@@ -1,0 +1,95 @@
+{
+    "child": {
+        "01.channel.md": {
+            "next": {
+                "path": "01.intro/02.feature/02.notify.md",
+                "title": "统一结果通知格式"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/README.md",
+                "title": "天工收银的设定"
+            },
+            "title": "不需要注册支付网关帐号"
+        },
+        "02.notify.md": {
+            "next": {
+                "path": "01.intro/02.feature/03.redirect.md",
+                "title": "统一支付跳转行为"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/01.channel.md",
+                "title": "不需要注册支付网关帐号"
+            },
+            "title": "统一结果通知格式"
+        },
+        "03.redirect.md": {
+            "next": {
+                "path": "01.intro/02.feature/04.account.md",
+                "title": "账户与提现"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/02.notify.md",
+                "title": "统一结果通知格式"
+            },
+            "title": "统一支付跳转行为"
+        },
+        "04.account.md": {
+            "next": {
+                "path": "01.intro/02.feature/05.subaccount.md",
+                "title": "多子账户: 集团, 平台型业务"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/03.redirect.md",
+                "title": "统一支付跳转行为"
+            },
+            "title": "账户与提现"
+        },
+        "05.subaccount.md": {
+            "next": {
+                "path": "01.intro/02.feature/06.deposit.md",
+                "title": "预存款, 子账户间付款"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/04.account.md",
+                "title": "账户与提现"
+            },
+            "title": "多子账户: 集团, 平台型业务"
+        },
+        "06.deposit.md": {
+            "next": {
+                "path": "01.intro/03.usage/README.md",
+                "title": "功能实现"
+            },
+            "prev": {
+                "path": "01.intro/02.feature/05.subaccount.md",
+                "title": "多子账户: 集团, 平台型业务"
+            },
+            "title": "预存款, 子账户间付款"
+        },
+        "README.md": {
+            "next": {
+                "path": "01.intro/02.feature/01.channel.md",
+                "title": "不需要注册支付网关帐号"
+            },
+            "prev": {
+                "path": "01.intro/01.basic/03.sdk.md",
+                "title": "SDK下载与使用"
+            },
+            "title": "天工收银的设定"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "01.intro/README.md",
+            "title": "了解如何开发"
+        },
+        {
+            "path": "01.intro/02.feature/README.md",
+            "title": "天工收银的设定"
+        }
+    ]
+}

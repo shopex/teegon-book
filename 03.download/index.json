@@ -1,0 +1,55 @@
+{
+    "child": {
+        "01.sdk.md": {
+            "next": {
+                "path": "03.download/02.logo.md",
+                "title": "Logo资源"
+            },
+            "prev": {
+                "path": "03.download/README.md",
+                "title": "工具下载"
+            },
+            "title": "SDK与DEMO"
+        },
+        "02.logo.md": {
+            "next": {
+                "path": "03.download/03.document.md",
+                "title": "离线文档"
+            },
+            "prev": {
+                "path": "03.download/01.sdk.md",
+                "title": "SDK与DEMO"
+            },
+            "title": "Logo资源"
+        },
+        "03.document.md": {
+            "next": null,
+            "prev": {
+                "path": "03.download/02.logo.md",
+                "title": "Logo资源"
+            },
+            "title": "离线文档"
+        },
+        "README.md": {
+            "next": {
+                "path": "03.download/01.sdk.md",
+                "title": "SDK与DEMO"
+            },
+            "prev": {
+                "path": "02.reference/03.notify.md",
+                "title": "通知数据结构"
+            },
+            "title": "工具下载"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "03.download/README.md",
+            "title": "工具下载"
+        }
+    ]
+}

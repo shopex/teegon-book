@@ -1,0 +1,22 @@
+了解如何开发
+================================================
+
+1. [基础文档](01.basic/README.md)
+    1. [概念与术语](01.basic/01.logic.md)
+    1. [安全模型](01.basic/02.safe.md)
+    1. [SDK下载与使用](01.basic/03.sdk.md)
+1. [天工收银的设定](02.feature/README.md)
+    1. [不需要注册支付网关帐号](02.feature/01.channel.md)
+    1. [统一结果通知格式](02.feature/02.notify.md)
+    1. [统一支付跳转行为](02.feature/03.redirect.md)
+    1. [账户与提现](02.feature/04.account.md)
+    1. [多子账户: 集团, 平台型业务](02.feature/05.subaccount.md)
+    1. [预存款, 子账户间付款](02.feature/06.deposit.md)
+1. [功能实现](03.usage/README.md)
+    1. [网站嵌入结算按钮](03.usage/01.button.md)
+    1. [线下二维码收银](03.usage/02.qrcode.md)
+    1. [自动分账](03.usage/03.divide.md)
+    1. [对账接口](03.usage/04.checking.md)
+    1. [实时大屏](03.usage/05.monitor.md)
+    1. [退款接口](03.usage/06.refund.md)
+    1. [提现接口](03.usage/07.withdraw.md)

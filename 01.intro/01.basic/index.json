@@ -1,0 +1,62 @@
+{
+    "child": {
+        "01.logic.md": {
+            "next": {
+                "path": "01.intro/01.basic/02.safe.md",
+                "title": "安全模型"
+            },
+            "prev": {
+                "path": "01.intro/01.basic/README.md",
+                "title": "基础文档"
+            },
+            "title": "概念与术语"
+        },
+        "02.safe.md": {
+            "next": {
+                "path": "01.intro/01.basic/03.sdk.md",
+                "title": "SDK下载与使用"
+            },
+            "prev": {
+                "path": "01.intro/01.basic/01.logic.md",
+                "title": "概念与术语"
+            },
+            "title": "安全模型"
+        },
+        "03.sdk.md": {
+            "next": {
+                "path": "01.intro/02.feature/README.md",
+                "title": "天工收银的设定"
+            },
+            "prev": {
+                "path": "01.intro/01.basic/02.safe.md",
+                "title": "安全模型"
+            },
+            "title": "SDK下载与使用"
+        },
+        "README.md": {
+            "next": {
+                "path": "01.intro/01.basic/01.logic.md",
+                "title": "概念与术语"
+            },
+            "prev": {
+                "path": "01.intro/README.md",
+                "title": "了解如何开发"
+            },
+            "title": "基础文档"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "01.intro/README.md",
+            "title": "了解如何开发"
+        },
+        {
+            "path": "01.intro/01.basic/README.md",
+            "title": "基础文档"
+        }
+    ]
+}

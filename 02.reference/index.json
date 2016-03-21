@@ -1,0 +1,58 @@
+{
+    "child": {
+        "01.channel.md": {
+            "next": {
+                "path": "02.reference/02.errors.md",
+                "title": "错误代码"
+            },
+            "prev": {
+                "path": "02.reference/README.md",
+                "title": "附录"
+            },
+            "title": "支付渠道缩写"
+        },
+        "02.errors.md": {
+            "next": {
+                "path": "02.reference/03.notify.md",
+                "title": "通知数据结构"
+            },
+            "prev": {
+                "path": "02.reference/01.channel.md",
+                "title": "支付渠道缩写"
+            },
+            "title": "错误代码"
+        },
+        "03.notify.md": {
+            "next": {
+                "path": "03.download/README.md",
+                "title": "工具下载"
+            },
+            "prev": {
+                "path": "02.reference/02.errors.md",
+                "title": "错误代码"
+            },
+            "title": "通知数据结构"
+        },
+        "README.md": {
+            "next": {
+                "path": "02.reference/01.channel.md",
+                "title": "支付渠道缩写"
+            },
+            "prev": {
+                "path": "01.intro/03.usage/07.withdraw.md",
+                "title": "提现接口"
+            },
+            "title": "附录"
+        }
+    },
+    "nav": [
+        {
+            "path": "/README.md",
+            "title": "天工收银开放平台"
+        },
+        {
+            "path": "02.reference/README.md",
+            "title": "附录"
+        }
+    ]
+}
